@@ -4,3 +4,8 @@ h1 {
         font-weight : 900;
         font-style : normal;
 }
+body {
+  color : white;
+  background-color : #FF5F5DC;
+  font-size : 18px;
+}
