@@ -4,3 +4,8 @@ h1 {
         font-weight : 900;
         font-style : normal;
 }
+body {
+        color : orange;
+        background-color : brown;
+        font-size : 18px;
+}
