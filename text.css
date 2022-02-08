@@ -10,10 +10,10 @@ body {
         font-size : 18px;
         font-style: helvetica;
 }
-h2 {
-        color : white;
-}
 main {
   margin: auto;
   max-width: 800px;
+}
+h2 {
+        color : white;
 }
