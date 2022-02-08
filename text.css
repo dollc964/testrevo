@@ -13,3 +13,7 @@ body {
 h2 {
         color : white;
 }
+main {
+  margin: auto;
+  max-width: 800px;
+}
